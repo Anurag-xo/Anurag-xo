@@ -2,11 +2,11 @@ name: 🐍 Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Runs every 24 hours
+    - cron: "0 */24 * * *" # every 24 hours
   workflow_dispatch:
   push:
     branches:
-      - main # or master if your default branch is named master
+      - main
 
 jobs:
   generate:
@@ -14,8 +14,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3 # Not svg-only
         with:
           github_user_name: Anurag-xo
           outputs: |
@@ -27,6 +30,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "🐍 Update contribution snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
