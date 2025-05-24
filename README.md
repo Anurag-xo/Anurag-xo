@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible" />
   
   <!-- Monitoring & Web -->
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,apache" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx" />
   
   <!-- Languages & Databases -->
   <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,bash,postgres,mongodb" />
