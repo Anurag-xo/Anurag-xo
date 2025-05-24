@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
-<h3 align="center">🚀 Passionate Dev | Cloud Native Enthusiast | CI/CD Geek | System Design Lover</h3>
+<h3 align="center">🚀 Passionate Dev | Cloud Native Enthusiast | CI/CD Geek | Cybersecurity Lover</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Anurag+Kumar;DevOps+%7C+Backend+Developer;Kubernetes+%7C+Docker+%7C+CI%2FCD+%7C+Cloud;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 - 🌱 I’m exploring **Distributed Systems, Observability, and AI-integrated DevOps**
 - 💬 Ask me about **Linux, Docker, Kubernetes, GitHub Actions, Helm, MongoDB, CI/CD**
 - 🧠 Always learning and building!
-- 📫 Reach me at: **anuragxo.dev@gmail.com**
+- 📫 Reach me at: **anuragrko42004@gmail.com**
 - ⚡ Fun fact: I debug in my dreams 😴💻
 
 ---
@@ -25,7 +25,7 @@
 ## 🚀 My Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,nginx,aws,gcp,vscode,mongodb,nodejs,express,cpp,python,postman,figma,helm,bash,githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,kafka,rabbitmq,podman,git,github,nginx,aws,gcp,vscode,mongodb,nodejs,express,cpp,python,postman,figma,helm,bash,githubactions" />
 </p>
 
 ---
@@ -44,15 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=radical" />
 </p>
 
----
-
-## 🧑‍💻 WakaTime Stats (Last 7 Days)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 🐍 Contribution Graph Snake
 
 <p align="center">
@@ -65,17 +56,16 @@
 
 - 🔥 Major: [Sign Language Detector](https://github.com/Anurag-xo/sign-language-detection)
 - 🚀 DevOps + Blog App: [Blog-web](https://github.com/Anurag-xo/Blog-web)
-- 🛰️ Camera Dashboard: [Surveillance](https://github.com/Anurag-xo?tab=repositories&q=camera&type=&language=&sort=)
 
 ---
 
 ## 🧭 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anurag-xo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anuragxo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/anurag_xo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://anuragxo.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=githubpages&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anurag-kumar-b1a790249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anuragrko42004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/anuragxo1221" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://notrlyanurag.duckdns.org" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=githubpages&logoColor=white" /></a>
 </p>
 
 ---
@@ -96,3 +86,4 @@ drwxr-xr-x 11 anurag anurag 4096 📦 Docker Builds
 drwxr-xr-x  8 anurag anurag 4096 ⚙️ Helm Charts
 drwxr-xr-x  6 anurag anurag 4096 ☁️ Cloud Deployments
 -rw-r--r--  1 anurag anurag 2048 📖 README.md
+```
