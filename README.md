@@ -25,7 +25,7 @@
 ## 🚀 My Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,kafka,rabbitmq,podman,git,github,nginx,aws,gcp,vscode,mongodb,nodejs,express,cpp,python,postman,figma,helm,bash,githubactions" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,python,rust,java,spring,graphql,postgres,mongodb,redis,docker,kubernetes,aws,gcp,azure,terraform,ansible,githubactions,jenkins,linux,bash,vim,vscode,figma,git,cpp,electron,tailwind,threejs" />
 </p>
 
 ---
