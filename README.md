@@ -36,7 +36,9 @@
   
   <!-- Row 4: Tools -->
   <img src="https://skillicons.dev/icons?i=nginx,git,vscode" />
-</div>## 🔥 My GitHub Stats
+</div>
+
+## 🔥 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anurag-xo&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" />
