@@ -25,10 +25,18 @@
 ## 🚀 My Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,argocd,helm,prometheus,grafana,nginx,nodejs,python,cpp,bash,postgres,mongodb,vscode&perline=11" style="transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-</div>---
-
-## 🔥 My GitHub Stats
+  <!-- Row 1: Cloud/DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,linux" />
+  
+  <!-- Row 2: CI/CD & Monitoring -->
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,helm,prometheus,grafana" />
+  
+  <!-- Row 3: Languages & DBs -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,bash,postgres,mongodb" />
+  
+  <!-- Row 4: Tools -->
+  <img src="https://skillicons.dev/icons?i=nginx,git,vscode" />
+</div>## 🔥 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anurag-xo&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" />
