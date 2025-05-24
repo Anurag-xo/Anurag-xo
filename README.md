@@ -44,8 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=radical" />
 </p>
 
-## 🐍 Contribution Graph Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/output/github-contribution-grid-snake-dark.svg" />
