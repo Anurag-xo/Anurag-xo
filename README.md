@@ -1,59 +1,98 @@
-<h2 align="left">Hi 👋! My name is Anurag and I'm a Developer, from India.</h2>
+<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
+<h3 align="center">🚀 Passionate Dev | Cloud Native Enthusiast | CI/CD Geek | System Design Lover</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Anurag+Kumar;DevOps+%7C+Backend+Developer;Kubernetes+%7C+Docker+%7C+CI%2FCD+%7C+Cloud;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-xo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag-xo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anurag-xo&label=Profile%20views&color=0e75b6&style=flat" alt="Anurag-xo" />
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 💫 About Me
 
-###
+- 🔭 I’m currently working on **Cloud-native applications and automation pipelines**
+- 🌱 I’m exploring **Distributed Systems, Observability, and AI-integrated DevOps**
+- 💬 Ask me about **Linux, Docker, Kubernetes, GitHub Actions, Helm, MongoDB, CI/CD**
+- 🧠 Always learning and building!
+- 📫 Reach me at: **anuragxo.dev@gmail.com**
+- ⚡ Fun fact: I debug in my dreams 😴💻
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+---
 
-###
+## 🚀 My Tech Arsenal
 
-### **About Me:**
-- 💻 I'm a software developer interested in **Cloud, Kubernetes, DevOps, and Web Development**.
-- 🌟 Currently working on **Sign Language Detection & Blog Web App**.
-- 📈 Passionate about **CI/CD, GitHub Actions, Helm, and ArgoCD**.
-- 🚀 Exploring **Networking Projects with Apache & Linux Deployments**.
-- 🌟 Preparing for **Cybersecurity & Full-Stack Development Roles**.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,nginx,aws,gcp,vscode,mongodb,nodejs,express,cpp,python,postman,figma,helm,bash,githubactions" />
+</p>
 
-### **My Projects:**
-- 📚 **[Blog-web](https://github.com/Anurag-xo/Blog-web.git)** - A full-stack blog application deployed on Kubernetes with Minikube, MongoDB, Helm, and ArgoCD.
-- 🌐 **[Hand Gesture and Sign Language Detector](https://github.com/Anurag-xo/sign-language-detection.git)** - A machine learning project using OpenCV and Python for sign language recognition.
+---
 
-###
+## 🔥 My GitHub Stats
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-xo&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anurag-xo&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
-<br clear="both">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=radical" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 🧑‍💻 WakaTime Stats (Last 7 Days)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🐍 Contribution Graph Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧰 Projects & Repos
+
+- 🔥 Major: [Sign Language Detector](https://github.com/Anurag-xo/sign-language-detection)
+- 🚀 DevOps + Blog App: [Blog-web](https://github.com/Anurag-xo/Blog-web)
+- 🛰️ Camera Dashboard: [Surveillance](https://github.com/Anurag-xo?tab=repositories&q=camera&type=&language=&sort=)
+
+---
+
+## 🧭 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-xo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anuragxo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/anurag_xo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://anuragxo.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=githubpages&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧩 Fun & Logs
+
+```bash
+> whoami
+Anurag Kumar — Code Bender, Infra Whisperer 🧙‍♂️
+
+> pwd
+/home/anurag/devops/k8s/git-fu
+
+> ls -la
+total 100
+drwxr-xr-x 10 anurag anurag 4096 🚀 Projects
+drwxr-xr-x 11 anurag anurag 4096 📦 Docker Builds
+drwxr-xr-x  8 anurag anurag 4096 ⚙️ Helm Charts
+drwxr-xr-x  6 anurag anurag 4096 ☁️ Cloud Deployments
+-rw-r--r--  1 anurag anurag 2048 📖 README.md
