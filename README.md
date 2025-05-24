@@ -25,17 +25,20 @@
 ## 🚀 My Tech Arsenal
 
 <div align="center">
-  <!-- Row 1: Cloud/DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,linux" />
+  <!-- Cloud & Infrastructure -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,terraform" />
   
-  <!-- Row 2: CI/CD & Monitoring -->
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,helm,prometheus,grafana" />
+  <!-- CI/CD & DevOps -->
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,helm,ansible" />
   
-  <!-- Row 3: Languages & DBs -->
+  <!-- Monitoring & Web -->
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,apache" />
+  
+  <!-- Languages & Databases -->
   <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,bash,postgres,mongodb" />
   
-  <!-- Row 4: Tools -->
-  <img src="https://skillicons.dev/icons?i=nginx,git,vscode" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,vscode" />
 </div>
 
 ## 🔥 My GitHub Stats
