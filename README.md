@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
+<h1 align="center">Anurag Kumar</h1>
 <h3 align="center">🚀 Passionate Dev | Cloud Native Enthusiast | CI/CD Geek | Cybersecurity Lover</h3>
 
 <p align="center">
