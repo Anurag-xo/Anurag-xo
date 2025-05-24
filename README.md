@@ -24,11 +24,9 @@
 
 ## 🚀 My Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,python,rust,java,spring,graphql,postgres,mongodb,redis,docker,kubernetes,aws,gcp,azure,terraform,ansible,githubactions,jenkins,linux,bash,vim,vscode,figma,git,cpp,electron,tailwind,threejs" />
-</p>
-
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,argocd,helm,prometheus,grafana,nginx,nodejs,python,cpp,bash,postgres,mongodb,vscode&perline=11" style="transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+</div>---
 
 ## 🔥 My GitHub Stats
 
