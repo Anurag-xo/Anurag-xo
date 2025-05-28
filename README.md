@@ -26,7 +26,7 @@
 
 <div align="center">
   <!-- Cloud & Infrastructure -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,terraform,kali,redhat" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,terraform,ubuntu,kali,redhat" />
   
   <!-- CI/CD & DevOps -->
   <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,gitlab" />
