@@ -35,10 +35,10 @@
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx" />
   
   <!-- Languages & Databases -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,bash,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,nodejs,bash,postgres,mongodb" />
   
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,vscode, neovim" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,vim,neovim" />
 </div>
 
 ## 🔥 My GitHub Stats
