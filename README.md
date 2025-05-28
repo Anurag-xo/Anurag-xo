@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,bash,postgres,mongodb" />
   
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,vscode, vim" />
+  <img src="https://skillicons.dev/icons?i=git,vscode, neovim" />
 </div>
 
 ## 🔥 My GitHub Stats
