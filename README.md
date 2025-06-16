@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,terraform,ubuntu,kali,redhat" />
   
   <!-- CI/CD & DevOps -->
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,gitlab,sapling" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,gitlab" />
   
   <!-- Monitoring & Web -->
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx" />
