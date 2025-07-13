@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on **Cloud-native applications and automation pipelines**
+- 🔭 I’m currently working on **Cloud-native applications and automation pipelines and Data Structures**
 - 🌱 I’m exploring **Distributed Systems, Observability, and AI-integrated DevOps**
 - 💬 Ask me about **Linux, Docker, Kubernetes, GitHub Actions, Helm, MongoDB, CI/CD**
 - 🧠 Always learning and building!
