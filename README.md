@@ -62,6 +62,11 @@
   </picture>
 </p>
 
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Anurag8081?theme=dark&font=Fira+Code&ext=contest" alt="Anurag's LeetCode Stats" />
+</p>
 ## 🧰 Projects & Repos
 
 - 🔥 Major: [Sign Language Detector](https://github.com/Anurag-xo/sign-language-detection)
