@@ -13,7 +13,7 @@
   <img alt="github contribution snake animation" src="./github-contribution-snake.svg" />
 </picture>
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k6rlp4bm2dceiz5k6u5wp5l43m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31k6rlp4bm2dceiz5k6u5wp5l43m)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hfubfleufv7pnlviv2lpu637b4&unique={true|1|on|yes})
 
 </div>
 
