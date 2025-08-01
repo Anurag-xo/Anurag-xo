@@ -106,7 +106,26 @@ Seasoned DevOps professional with expertise in designing, implementing, and main
 
 ## 🎵 Currently Playing
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k6rlp4bm2dceiz5k6u5wp5l43m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31k6rlp4bm2dceiz5k6u5wp5l43m)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="middle">
+   <a href="https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx" target="_blank" rel="noopener noreferrer">
+     <picture>
+       <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+       <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+       <img src="https://custom-icon-badges.demolab.com/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+     </picture>
+   </a>
+</p>
+
+<div align="center">
+  
+**🎵 Can't Stop - Red Hot Chili Peppers**  
+*From: By the Way (2002)*  
+
+[![Album Cover](https://i.scdn.co/image/ab67616d00001e02ce4a4c5d7b4911a9aba1e8e3)](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx)
+
+</div>
 
 ---
 
