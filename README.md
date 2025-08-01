@@ -13,7 +13,16 @@
   <img alt="github contribution snake animation" src="./github-contribution-snake.svg" />
 </picture>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hfubfleufv7pnlviv2lpu637b4&unique={true|1|on|yes})
+## 🎵 Featured Track
+
+[![Bohemian Rhapsody](https://img.shields.io/badge/Queen-Bohemian_Rhapsody-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J)
+
+**Bohemian Rhapsody** - Queen  
+<small>From: A Night at the Opera</small>
+
+<a href="https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J">
+  <img src="https://i.scdn.co/image/ab67616d00001e0296d2857a9b4e8a6f0ca7c0b1" width="150" alt="Album Cover">
+</a>
 
 </div>
 
