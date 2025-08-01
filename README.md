@@ -398,8 +398,10 @@ const skills = {
   cloud: ["AWS", "GCP", "Azure", "Terraform", "Kubernetes", "Docker"],
   backend: ["Node.js", "Python", "C++", "Express", "FastAPI", "Django"],
   databases: ["MongoDB", "PostgreSQL", "Redis", "Supabase"],
-  devOps: ["GitHub Actions", "Jenkins", "Prometheus", "Grafana", "Ansible"]
+  devOps: ["GitHub Actions", "Jenkins", "Prometheus", "Grafana", "Ansible"],
 };
+```
+
 🔭 Current Focus
 Building scalable cloud-native applications
 
@@ -410,6 +412,7 @@ Enhancing system reliability and performance
 Contributing to open-source projects
 
 🏆 GitHub Stats
+
 <div align="center"><img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anurag-xo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Coding+Activity" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Anurag-xo&theme=radical&hide_border=true" /><img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=radical&hide_border=true&langs_count=8" /> <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-xo&theme=redical&hide_border=true" /></div>
 🏅 Notable Projects
 <table> <tr> <td width="50%"> <h3>Sign Language Detector</h3> <p>AI-powered real-time sign language recognition system</p> <a href="https://github.com/Anurag-xo/sign-language-detection"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-xo&repo=sign-language-detection&theme=radical" /> </a> </td> <td width="50%"> <h3>Blog Platform</h3> <p>Full-stack blog application with CI/CD pipeline</p> <a href="https://github.com/Anurag-xo/Blog-web"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-xo&repo=Blog-web&theme=radical" /> </a> </td> </tr> </table>
@@ -419,6 +422,4 @@ https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin
 https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter
 https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail
 https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode
-
 </div>
-```
