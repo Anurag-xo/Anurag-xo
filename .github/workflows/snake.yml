@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetches entire commit history
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -31,7 +33,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main # Pull latest changes before pushing
           git add github-contribution-snake.svg github-contribution-snake-dark.svg
           git commit -m "docs: Update contribution snake animation [skip ci]"
-          git push
-
+          git push origin main
