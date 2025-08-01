@@ -370,56 +370,90 @@
 <!---->
 <!-- </div> -->
 <!---->
-
 <div align="center">
 
-# Anurag Kumar
+# 🌟 Anurag Kumar 🌟
 
-### DevOps Engineer | Cloud Specialist | Backend Developer
+### DevOps Wizard • Cloud Sorcerer • Code Alchemist
 
-[![3D Contribution Graph](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-3d-contrib/profile-gitblock.svg)](https://github.com/Anurag-xo)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anurag%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Where%20Infrastructure%20Meets%20Innovation%20%F0%9F%9A%80&descAlignY=51&descAlign=50"/>
 
-![Snake animation](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/output/github-contribution-grid-snake.svg)
+[![3D Dark Mode Contributions](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Anurag-xo)
+
+![Dark Mode Snake](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/output/github-contribution-grid-snake-dark.svg)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k6rlp4bm2dceiz5k6u5wp5l43m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31k6rlp4bm2dceiz5k6u5wp5l43m&redirect=true)
 
 </div>
 
 ---
 
-## 📊 GitHub Metrics
-
-![Metrics](https://metrics.lecoq.io/Anurag-xo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.colors=github&languages.threshold=0%25&achievements=1&achievements.threshold=C&achievements.secrets=true&config.timezone=Asia%2FKolkata)
-
----
-
-## 🛠 Technical Expertise
+## 🧙‍♂️ Code Wizardry Profile
 
 ```javascript
-const skills = {
-  cloud: ["AWS", "GCP", "Azure", "Terraform", "Kubernetes", "Docker"],
-  backend: ["Node.js", "Python", "C++", "Express", "FastAPI", "Django"],
-  databases: ["MongoDB", "PostgreSQL", "Redis", "Supabase"],
-  devOps: ["GitHub Actions", "Jenkins", "Prometheus", "Grafana", "Ansible"],
+const anurag = {
+  pronouns: "He/Him",
+  location: "India 🇮🇳",
+  currentRole: "Senior DevOps Engineer",
+  superpowers: [
+    "Kubernetes Cluster Whispering",
+    "CI/CD Pipeline Optimization",
+    "Cloud Cost Alchemy",
+    "Production Incident Telepathy",
+  ],
+  architecture: [
+    "Microservices",
+    "Serverless",
+    "Event-Driven",
+    "Zero-Trust Security",
+  ],
+  currentQuest: "Building self-healing cloud systems",
+  funFact:
+    "Rebooted a production server with 300k+ users during an outage... with no downtime",
 };
 ```
 
-🔭 Current Focus
-Building scalable cloud-native applications
+🛠️ Technical Arsenal
 
-Optimizing CI/CD pipelines
-
-Enhancing system reliability and performance
-
-Contributing to open-source projects
-
-🏆 GitHub Stats
-
-<div align="center"><img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anurag-xo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Coding+Activity" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Anurag-xo&theme=radical&hide_border=true" /><img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=radical&hide_border=true&langs_count=8" /> <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-xo&theme=redical&hide_border=true" /></div>
-🏅 Notable Projects
-<table> <tr> <td width="50%"> <h3>Sign Language Detector</h3> <p>AI-powered real-time sign language recognition system</p> <a href="https://github.com/Anurag-xo/sign-language-detection"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-xo&repo=sign-language-detection&theme=radical" /> </a> </td> <td width="50%"> <h3>Blog Platform</h3> <p>Full-stack blog application with CI/CD pipeline</p> <a href="https://github.com/Anurag-xo/Blog-web"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-xo&repo=Blog-web&theme=radical" /> </a> </td> </tr> </table>
-📫 Let's Connect
 <div align="center">
-https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin
-https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter
-https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail
-https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode
+☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux&theme=dark&perline=8" />
+💻 Development
+<img src="https://skillicons.dev/icons?i=python,nodejs,typescript,cpp,go,rust,fastapi,django&theme=dark&perline=8" />
+🔮 DevOps Magic
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,argocd,prometheus,grafana,redis,postgres,supabase&theme=dark&perline=8" /></div>
+📊 GitHub Analytics
+<div align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anurag-xo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Code+Alchemy" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Anurag-xo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B35&ring=FF6B35" /><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css&custom_title=Languages+Mastered" /> <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-xo&theme=redical&hide_border=true&custom_title=Contribution+Map" /></div>
+🏆 Achievements
+<div align="center">
+https://github-profile-trophy.vercel.app/?username=Anurag-xo&theme=radical&column=4&margin-w=15&no-bg=true
+
+<img src="https://leetcard.jacoblin.cool/Anurag8081?theme=dark&font=Fira+Code&ext=contest&width=500" alt="LeetCode Mastery" /></div>
+🚀 Featured Projects
+
+<table> <tr> <td width="50%"> <h3>🤖 Sign Language AI</h3> <p>Real-time gesture recognition with 95% accuracy</p> <a href="https://github.com/Anurag-xo/sign-language-detection"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-xo&repo=sign-language-detection&theme=radical" /> </a> </td> <td width="50%"> <h3>📝 Blog Platform</h3> <p>Full-stack app with automated CI/CD pipelines</p> <a href="https://github.com/Anurag-xo/Blog-web"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-xo&repo=Blog-web&theme=radical" /> </a> </td> </tr> <tr> <td width="50%"> <h3>☁️ K8s Cluster Manager</h3> <p>Automated Kubernetes orchestration system</p> </td> <td width="50%"> <h3>🔐 Security Toolkit</h3> <p>Pentesting automation framework</p> </td> </tr> </table>
+🎧 Coding Soundtrack
+<div align="center">
+https://spotify-github-profile.vercel.app/api/view?uid=31k6rlp4bm2dceiz5k6u5wp5l43m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true
+
 </div>
+💬 Tech Philosophy
+"The best error message is the one that never shows up, the best logging is the one you never need to check,
+and the best infrastructure is the one that scales without asking."
+- Cloud Native Manifesto
+
+🌐 Connect With Me
+
+<div align="center">
+https://img.shields.io/badge/-@anuragkumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/-@anuragxo1221-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/-anuragrko42004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white
+
+</div>
+<div align="center"><img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Dev Jokes" width="500" />
+"Commit often, perfect later, publish once."
+
+⭐️ From Anurag Kumar
+
+</div>```
