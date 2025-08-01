@@ -523,4 +523,144 @@ const anurag = {
 
 ⭐️ From Anurag Kumar
 Last Updated: August 1, 2025
+</div>
+
+
+---
+
+## 🧙‍♂️ Code Wizardry Profile
+
+```javascript
+const anurag = {
+  pronouns: "He/Him",
+  location: "India 🇮🇳",
+  currentRole: "Senior DevOps Engineer",
+  superpowers: [
+    "Kubernetes Cluster Whispering",
+    "CI/CD Pipeline Optimization",
+    "Cloud Cost Alchemy",
+    "Production Incident Telepathy",
+  ],
+  architecture: [
+    "Microservices",
+    "Serverless",
+    "Event-Driven",
+    "Zero-Trust Security",
+  ],
+  currentQuest: "Building self-healing cloud systems",
+  funFact:
+    "Rebooted a production server with 300k+ users during an outage... with no downtime",
+};
+```
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux&theme=dark&perline=8" />
+💻 Development
+<img src="https://skillicons.dev/icons?i=python,nodejs,typescript,cpp,go,rust,fastapi,django&theme=dark&perline=8" />
+🔮 DevOps Magic
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,argocd,prometheus,grafana,redis,postgres,supabase&theme=dark&perline=8" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anurag-xo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Code+Alchemy" /> 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Anurag-xo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B35&ring=FF6B35" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css&custom_title=Languages+Mastered" /> 
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-xo&theme=redical&hide_border=true&custom_title=Contribution+Map" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anurag-xo&theme=radical&column=4&margin-w=15&no-bg=true" />
+<img src="https://leetcard.jacoblin.cool/Anurag8081?theme=dark&font=Fira+Code&ext=contest&width=500" alt="LeetCode Mastery" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table> 
+<tr> 
+<td width="50%"> 
+<h3>🤖 Sign Language AI</h3> 
+<p>Real-time gesture recognition with 95% accuracy</p> 
+<a href="https://github.com/Anurag-xo/sign-language-detection"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-xo&repo=sign-language-detection&theme=radical" /> 
+</a> 
+</td> 
+<td width="50%"> 
+<h3>📝 Blog Platform</h3> 
+<p>Full-stack app with automated CI/CD pipelines</p> 
+<a href="https://github.com/Anurag-xo/Blog-web"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-xo&repo=Blog-web&theme=radical" /> 
+</a> 
+</td> 
+</tr> 
+<tr> 
+<td width="50%"> 
+<h3>☁️ K8s Cluster Manager</h3> 
+<p>Automated Kubernetes orchestration system</p> 
+</td> 
+<td width="50%"> 
+<h3>🔐 Security Toolkit</h3> 
+<p>Pentesting automation framework</p> 
+</td> 
+</tr> 
+</table>
+
+---
+
+## 🎧 Coding Soundtrack
+
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6rlp4bm2dceiz5k6u5wp5l43m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+</div>
+
+---
+
+## 💬 Tech Philosophy
+
+> "The best error message is the one that never shows up, the best logging is the one you never need to check, and the best infrastructure is the one that scales without asking."
+>
+> -- Cloud Native Manifesto
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/anurag-kumar-b1a790249/">
+<img src="https://img.shields.io/badge/-@anuragkumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/anuragxo1221">
+<img src="https://img.shields.io/badge/-@anuragxo1221-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:anuragrko42004@gmail.com">
+<img src="https://img.shields.io/badge/-anuragrko42004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://notrlyanurag.duckdns.org">
+<img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Dev Jokes" width="500" />
+
+> "Commit often, perfect later, publish once."
+
+⭐️ From Anurag Kumar
+Last Updated: August 1, 2025
 </div>```
