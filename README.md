@@ -13,17 +13,6 @@
   <img alt="github contribution snake animation" src="./github-contribution-snake.svg" />
 </picture>
 
-## 🎵 Featured Track
-
-[![Bohemian Rhapsody](https://img.shields.io/badge/Queen-Bohemian_Rhapsody-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J)
-
-**Bohemian Rhapsody** - Queen  
-<small>From: A Night at the Opera</small>
-
-<a href="https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J">
-  <img src="https://i.scdn.co/image/ab67616d00001e0296d2857a9b4e8a6f0ca7c0b1" width="150" alt="Album Cover">
-</a>
-
 </div>
 
 ---
@@ -106,26 +95,7 @@ Seasoned DevOps professional with expertise in designing, implementing, and main
 
 ## 🎵 Currently Playing
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="middle">
-   <a href="https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx" target="_blank" rel="noopener noreferrer">
-     <picture>
-       <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-       <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-       <img src="https://custom-icon-badges.demolab.com/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-     </picture>
-   </a>
-</p>
-
-<div align="center">
-  
-**🎵 Can't Stop - Red Hot Chili Peppers**  
-*From: By the Way (2002)*  
-
-[![Album Cover](https://i.scdn.co/image/ab67616d00001e02ce4a4c5d7b4911a9aba1e8e3)](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx)
-
-</div>
+-- in maintainance
 
 ---
 
