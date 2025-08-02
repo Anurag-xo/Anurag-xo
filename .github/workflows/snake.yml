@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *" # Every 12 hours
   workflow_dispatch:
   push:
     branches: [main]
@@ -19,21 +19,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetches entire commit history
+          fetch-depth: 0
 
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./github-contribution-snake.svg
-            ./github-contribution-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push changes
+      - name: Commit and push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main # Pull latest changes before pushing
-          git add github-contribution-snake.svg github-contribution-snake-dark.svg
-          git commit -m "docs: Update contribution snake animation [skip ci]"
-          git push origin main
+          git add dist/
+          git commit -m "Update contribution snake"
+          git push
