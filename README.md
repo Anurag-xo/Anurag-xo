@@ -6,10 +6,6 @@
 
 </div>
 
----
-
-## 🌟 Contribution Highlights
-
 <div align="center">
 
 <!-- 3D Contribution Graph -->
