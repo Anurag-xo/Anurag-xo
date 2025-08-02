@@ -47,10 +47,14 @@
   <img src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="Currently Playing on Spotify" />
 </a>
 
+```bash
+Run: npx anuragxo
+```
+### ✨ Vibe-check your terminal!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
 
 ---
 
-```bash
-Run: npx anuragxo
-# ✨ Vibe-check your terminal!
+
