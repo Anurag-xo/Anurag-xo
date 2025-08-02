@@ -62,31 +62,6 @@
 
 ---
 
-## 🧠 My Philosophy
-
-> "Effective infrastructure is seamless, scalable, and reliable, enabling organizations to focus on innovation. I design systems that are robust, efficient, and built to last."
-
----
-
-## 🌍 Connect with Me
-
-<div align="center" style="margin: 15px 0;">
-
-<a href="https://www.linkedin.com/in/anurag-kumar-b1a790249/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/anuragxo1221">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="mailto:anuragrko42004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://notrlyanurag.duckdns.org">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-</a>
-
-</div>
-
 ---
 
 <div align="center">
