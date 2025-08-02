@@ -84,8 +84,8 @@
 </tr> 
 </table>
 
-<div align="center">
 ## 🎵 Now Playing
+<div align="center">
 <a href="https://anuragxo.pythonanywhere.com/link">
   <img 
     src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" 
