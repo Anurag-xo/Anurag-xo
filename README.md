@@ -49,12 +49,14 @@
 
 *"Good code needs good beats! 🎶"*
 
-<img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" width="300" alt="Dancing"/>
-
 ```bash
 Run: npx anuragxo
 ```
 ### ✨ Vibe-check your terminal!
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmZ29leWVyYzNpZDNpOTZ1eGVqaWR4YXE0OHNtcjJrbTNjcGtpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="200" alt="Coding Life"/>
+
+*"That's all folks! Keep coding and keep memeing! 🎭💻"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
