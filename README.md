@@ -15,14 +15,6 @@
 
 </div>
 
----
-
-## Professional Overview
-
-Seasoned DevOps professional with expertise in designing, implementing, and maintaining robust cloud infrastructure solutions. Specializing in Kubernetes orchestration, CI/CD pipeline optimization, and cloud cost management across multi-cloud environments.
-
----
-
 ## 🛠️ Technical Expertise
 
 <div align="center">
