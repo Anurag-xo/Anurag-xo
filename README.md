@@ -84,7 +84,7 @@
 </tr> 
 </table>
 
----
+<div align="center">
 ## 🎵 Now Playing
 <a href="https://anuragxo.pythonanywhere.com/link">
   <img 
@@ -92,7 +92,7 @@
     alt="Currently Playing on Spotify" 
   />
 </a>
----
+</div>
 
 ## Professional Philosophy
 
