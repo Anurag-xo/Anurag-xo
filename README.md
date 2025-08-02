@@ -85,12 +85,8 @@
 </table>
 
 ---
-
-## 🎵 Currently Playing
-
 ## 🎵 Now Playing
-[![Spotify](https://spotify-readme-tthn0.vercel.app/api/spotify)](https://open.spotify.com/user/31hfubfleufv7pnlviv2lpu637b4)
-
+[![Spotify](https://spotify-readme-tthn0.vercel.app/api/spotify?theme=dark)](https://open.spotify.com/user/31hfubfleufv7pnlviv2lpu637b4)
 ---
 
 ## Professional Philosophy
