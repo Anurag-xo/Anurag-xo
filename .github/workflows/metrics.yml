@@ -14,14 +14,17 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: Anurag-xo
+          user: ${{ github.repository_owner }}
+          filename: github-metrics.svg
           template: classic
           base: ""
           config_timezone: Asia/Kolkata
@@ -31,9 +34,10 @@ jobs:
           plugin_achievements: yes
 
       - name: Commit and push
+        if: success()
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add metrics.svg
-          git commit -m "Update GitHub metrics"
-          git push
+          git add github-metrics.svg
+          git commit -m "Update GitHub metrics [skip ci]" || echo "No changes to commit"
+          git push || echo "Nothing to push"
