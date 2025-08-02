@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux&theme=dark&perline=8" />
 
 **Development**  
-<img src="https://skillicons.dev/icons?i=python,nodejs,springboot,cpp,go,javascript,fastapi,django&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,java,cpp,go,javascript,fastapi,django&theme=dark&perline=8" />
 
 **DevOps & Observability**  
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,kafka,prometheus,grafana,redis,postgres,supabase&theme=dark&perline=8" />
