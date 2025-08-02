@@ -51,39 +51,6 @@
 <img src="https://leetcard.jacoblin.cool/Anurag8081?theme=dark&font=Fira+Code&ext=contest&width=500" alt="LeetCode Progress" />
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<table> 
-<tr> 
-<td width="50%"> 
-<h3>Sign Language Recognition System</h3> 
-<p>Real-time gesture recognition system achieving 95% accuracy in production environments</p> 
-<a href="https://github.com/Anurag-xo/sign-language-detection"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-xo&repo=sign-language-detection&theme=radical" /> 
-</a> 
-</td> 
-<td width="50%"> 
-<h3>Content Management Platform</h3> 
-<p>Full-stack application with automated CI/CD pipelines and infrastructure-as-code</p> 
-<a href="https://github.com/Anurag-xo/Blog-web"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-xo&repo=Blog-web&theme=radical" /> 
-</a> 
-</td> 
-</tr> 
-<tr> 
-<td width="50%"> 
-<h3>Kubernetes Cluster Manager</h3> 
-<p>Automated orchestration system for managing production-grade Kubernetes clusters</p> 
-</td> 
-<td width="50%"> 
-<h3>Security Automation Framework</h3> 
-<p>Integrated toolkit for automated security testing and vulnerability assessment</p> 
-</td> 
-</tr> 
-</table>
-
 ## 🎵 Now Playing
 <div align="center">
 <a href="https://anuragxo.pythonanywhere.com/link">
