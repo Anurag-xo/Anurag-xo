@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux,python,nodejs,java,cpp,go,javascript,fastapi,django,githubactions,jenkins,kafka,prometheus,grafana,redis,postgres,supabase,nginx,bash,mysql,nextjs,express,mongodb&theme=dark" alt="Technical Skills" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux,python,nodejs,java,cpp,go,javascript,fastapi,django,githubactions,jenkins,kafka,prometheus,grafana,redis,postgres,supabase,nginx,bash,mysql,vim,gitlab,mongodb&theme=dark" alt="Technical Skills" />
 
 </div>
 
