@@ -46,7 +46,6 @@
 ## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anurag-xo&theme=radical&column=4&margin-w=15&no-bg=true" />
 <img src="https://leetcard.jacoblin.cool/Anurag8081?theme=dark&font=Fira+Code&ext=contest&width=500" alt="LeetCode Progress" />
 </div>
 
