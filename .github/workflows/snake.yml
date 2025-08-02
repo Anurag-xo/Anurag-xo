@@ -25,14 +25,13 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_path: ./assets/github-contribution-snake.svg
+          svg_path_dark: ./assets/github-contribution-snake-dark.svg
 
       - name: Commit and push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/
-          git commit -m "Update contribution snake"
+          git add assets/
+          git commit -m "Update contribution snake [skip ci]"
           git push
