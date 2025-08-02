@@ -86,7 +86,12 @@
 
 ---
 ## 🎵 Now Playing
-[![Spotify](https://spotify-readme-tthn0.vercel.app/api/spotify?theme=dark)](https://open.spotify.com/user/31hfubfleufv7pnlviv2lpu637b4)
+<a href="https://anuragxo.pythonanywhere.com/link">
+  <img 
+    src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" 
+    alt="Currently Playing on Spotify" 
+  />
+</a>
 ---
 
 ## Professional Philosophy
