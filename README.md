@@ -20,8 +20,6 @@
 
 ---
 
-## 🔧 Technical Skills
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux,python,nodejs,java,cpp,go,javascript,fastapi,django,githubactions,jenkins,kafka,prometheus,grafana,redis,postgres,supabase&theme=dark" alt="Technical Skills" />
@@ -29,8 +27,6 @@
 </div>
 
 ---
-
-## 📈 GitHub Insights
 
 <div align="center">
 
@@ -44,7 +40,7 @@
 
 ---
 
-## 🎧 Currently Playing
+### 🎧 Currently Playing
 
 <div align="center">
 
