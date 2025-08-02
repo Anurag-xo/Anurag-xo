@@ -59,7 +59,7 @@ Run: npx anuragxo
 
 *"That's all folks! Keep coding and keep memeing! 🎭💻"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=footer&animation=twinkling"/>
 </div>
 
 ---
