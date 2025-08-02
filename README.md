@@ -59,14 +59,3 @@
 </div>
 
 - Run `npx anuragxo` in your terminal to vibe-check your CLI
-
----
-
----
-
-<div align="center">
-
-## 📅 Updated: August 2025
-📧 **Email**: [anuragrko42004@gmail.com](mailto:anuragrko42004@gmail.com)
-
-</div>
