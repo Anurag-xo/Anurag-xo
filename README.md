@@ -46,9 +46,11 @@
 <a href="https://anuragxo.pythonanywhere.com/link">
   <img src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="Currently Playing on Spotify" />
 </a>
+
 *"Good code needs good beats! 🎶"*
 
 <img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" width="300" alt="Dancing"/>
+
 ```bash
 Run: npx anuragxo
 ```
