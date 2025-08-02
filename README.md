@@ -10,14 +10,14 @@
 
 <!-- 3D Contribution Graph -->
 <a href="https://github.com/Anurag-xo">
-  <img width="100%" src="https://github.com/Anurag-xo/Anurag-xo/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" style="max-width: 600px; margin: 10px 0;" />
+  <img src="https://github.com/Anurag-xo/Anurag-xo/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </a>
 
 <!-- Snake Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./github-contribution-snake.svg" />
-  <img width="100%" alt="GitHub Contribution Snake Animation" src="./github-contribution-snake.svg" style="max-width: 600px; margin: 10px 0;" />
+  <img alt="GitHub Contribution Snake Animation" src="./github-contribution-snake.svg" />
 </picture>
 
 </div>
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux,python,nodejs,java,cpp,go,javascript,fastapi,django,githubactions,jenkins,kafka,prometheus,grafana,redis,postgres,supabase&theme=dark" alt="Technical Skills" style="margin: 10px 0;" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux,python,nodejs,java,cpp,go,javascript,fastapi,django,githubactions,jenkins,kafka,prometheus,grafana,redis,postgres,supabase&theme=dark" alt="Technical Skills" />
 
 </div>
 
@@ -38,13 +38,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Anurag-xo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Development%20Activity" alt="GitHub Stats" style="max-width: 500px; margin: 10px 0;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anurag-xo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Development%20Activity" alt="GitHub Stats" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Anurag-xo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B35&ring=FF6B35" alt="GitHub Streak" style="max-width: 500px; margin: 10px 0;" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Anurag-xo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B35&ring=FF6B35" alt="GitHub Streak" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-xo&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css&custom_title=Programming%20Languages" alt="Top Languages" style="max-width: 500px; margin: 10px 0;" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-xo&theme=redical&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" style="max-width: 500px; margin: 10px 0;" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-xo&theme=redical&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" />
 
 </div>
 
@@ -53,9 +51,15 @@
 ## 🎧 Currently Playing
 
 <div align="center">
+
 <a href="https://anuragxo.pythonanywhere.com/link">
-  <img width="100%" src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="Currently Playing on Spotify" style="max-width: 500px; margin: 10px 0;" />
+  <img src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="Currently Playing on Spotify" />
 </a>
+
 </div>
 
-- Run `npx anuragxo` in your terminal to vibe-check your CLI
+---
+
+```bash
+Run: npx anuragxo
+# ✨ Vibe-check your terminal!
