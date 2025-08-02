@@ -2,7 +2,7 @@
 
 ### DevOps Engineer | Cloud Architect | Infrastructure Specialist
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anurag%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Scalable%20Cloud%20Infrastructure%20%F0%9F%9A%80&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anurag%20&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Scalable%20Cloud%20Infrastructure%20%F0%9F%9A%80&descAlignY=51&descAlign=50"/>
 
 [![3D Contribution Graph](https://github.com/Anurag-xo/Anurag-xo/blob/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Anurag-xo)
 
