@@ -20,9 +20,8 @@
 ---
 
 <div align="center">
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="64" height="64" /></div>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux,python,nodejs,java,cpp,go,javascript,fastapi,django,githubactions,jenkins,kafka,prometheus,grafana,redis,postgres,supabase,nginx,bash,mysql,vim,gitlab,mongodb&theme=dark" alt="Technical Skills" />
-
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="68" height="68" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="68" height="68" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="68" height="68" /></div>
 </div>
 
 ---
