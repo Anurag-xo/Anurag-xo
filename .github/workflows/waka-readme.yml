@@ -1,17 +1,41 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
+  # Run every day at midnight
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
+
+  # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update this repo's README
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master # this action name
+      # Step 1: Checkout your repository
+      - uses: actions/checkout@v4
+
+      # Step 2: Use athul/waka-readme to update stats
+      - uses: athul/waka-readme@v1
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Your WakaTime API key (stored as a GitHub secret)
+          api_key: ${{ secrets.WAKATIME_API_KEY }}
+
+          # Show icons for languages and editors
+          show_icons: true
+
+          # Theme: 'dark', 'light', 'onedark', 'dracula', etc.
+          theme: onedark
+
+          # Compact layout looks clean on profiles
+          layout: compact
+
+          # Optional: Add a custom title
+          title: "📊 Weekly Coding Stats"
+
+          # Optional: Include your editor (Neovim!)
+          include_editor: true
+          include_os: true
+          include_project: true
