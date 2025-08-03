@@ -2,6 +2,7 @@
   
 ### DevOps Engineer | Cloud Architect 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Anurag&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Scalable%20and%20Resilient%20Cloud%20Infrastructure&descAlignY=52&descAlign=50" alt="Header Banner" />
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="64" height="64" /></div>
 </div>
 <div align="center">
 <!-- 3D Contribution Graph -->
