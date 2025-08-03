@@ -52,6 +52,13 @@
 ```bash
 Run: npx anuragxo
 ```
+## 📊 Coding Activity (Last 7 Days)
+
+![WakaTime Stats](https://wakatime.com/badge/user/64ab66ef-ca97-4860-b943-191f7f924ed0.svg)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=64ab66ef-ca97-4860-b943-191f7f924ed0&theme=onedark)
+
+![Editor: Neovim](https://wakatime.com/badge/github/64ab66ef-ca97-4860-b943-191f7f924ed0/editor/Nvim.svg)
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmZ29leWVyYzNpZDNpOTZ1eGVqaWR4YXE0OHNtcjJrbTNjcGtpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="400" alt="Coding Life"/>
 
