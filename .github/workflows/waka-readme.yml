@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,5 +15,5 @@ jobs:
         with:
           api_key: ${{ secrets.WAKATIME_API_KEY }}
           show_icons: true
-          theme: onedark
+          theme: radical
           layout: compact
