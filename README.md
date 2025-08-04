@@ -37,6 +37,11 @@
 
 ---
 
+## 📊 Coding Activity (Last 7 Days)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 🎧 Currently Playing
 
 <div align="center">
@@ -45,7 +50,7 @@
   <img src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="Currently Playing on Spotify" />
 </a>
 
-*"Good code needs good beats! 🎶"*
+_"Good code needs good beats! 🎶"_
 
 ### ✨ Vibe-check your terminal!
 
@@ -55,7 +60,7 @@ Run: npx anuragxo
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmZ29leWVyYzNpZDNpOTZ1eGVqaWR4YXE0OHNtcjJrbTNjcGtpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="400" alt="Coding Life"/>
 
-*"That's all folks! Keep coding and keep memeing!"*
+_"That's all folks! Keep coding and keep memeing!"_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=footer&animation=twinkling"/>
 </div>

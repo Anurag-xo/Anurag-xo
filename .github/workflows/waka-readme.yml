@@ -1,7 +1,7 @@
 name: Waka Readme
 
 on:
-  # Run every day at midnight
+  # Run daily at midnight
   schedule:
     - cron: "0 0 * * *"
 
@@ -26,8 +26,8 @@ jobs:
           # Show icons for languages and editors
           show_icons: true
 
-          # Theme: 'dark', 'light', 'onedark', 'dracula', etc.
-          theme: onedark
+          # Theme: 'dark', 'onedark', 'radical', 'tokyonight', etc.
+          theme: radical
 
           # Compact layout looks clean on profiles
           layout: compact
@@ -35,7 +35,9 @@ jobs:
           # Optional: Add a custom title
           title: "📊 Weekly Coding Stats"
 
-          # Optional: Include your editor (Neovim!)
+          # Show what you code in
+          include_language: true
           include_editor: true
           include_os: true
           include_project: true
+          include_time: true
