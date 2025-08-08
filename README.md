@@ -29,7 +29,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anurag-xo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Development%20Activity" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Anurag-xo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B35&ring=FF6B35" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Anurag-xo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B35&ring=FF6B35" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-xo&theme=redical&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" />
 
@@ -40,14 +40,27 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-Lua                      3 mins              ████████████░░░░░░░░░░░░░   48.93 % 
-Python                   2 mins              █████████░░░░░░░░░░░░░░░░   36.36 % 
-TeX                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+💬 Programming Languages: 
+Java                     43 mins             ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+Lua                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+JavaScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
-Unknown Editor           3 mins              █████████████░░░░░░░░░░░░   53.21 % 
-Neovim                   2 mins              ████████████░░░░░░░░░░░░░   46.79 % 
- 
-WSL                      6 mins              █████████████████████████   100.00 % 
+🔥 Editors: 
+Neovim                   2 hrs 20 mins       ██████████████████████░░░   86.12 % 
+Nvim                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Unknown Editor           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+
+🐱‍💻 Projects: 
+Unknown Project          49 mins             ████████░░░░░░░░░░░░░░░░░   30.57 % 
+npm_profile              30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+nvim                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+anuragx-dorfiles         12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+terminal_port            12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+
+💻 Operating System: 
+WSL                      2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
