@@ -95,7 +95,7 @@ Run: npx anuragxo
 
 _"That's all folks! Keep coding and keep memeing!"_ -->
 
-_"How I imagine C++ pointers talk to each other: "_
+<h4 align="center">How I imagine C++ pointers talk to each other:</h4>
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o2cWpuNWhqNG03ZXVxcHYydGZ2eHAwYnR4NDVvNnZhY2hjYm1kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4tQmuMGdah3B6/giphy.gif" width="400" alt="Sick"/>
 
