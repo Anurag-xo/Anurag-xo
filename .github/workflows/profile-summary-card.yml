@@ -1,0 +1,25 @@
+name: Generate GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # Runs every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks out your repository under $GITHUB_WORKSPACE
+      - uses: actions/checkout@v4
+
+      # Generates the summary cards
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Uses the secret token you added
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}} # Match the secret name from step 3
+        with:
+          # Sets the username (usually the repository owner)
+          USERNAME: ${{ github.repository_owner }}
+          # Optional: Set UTC offset for productive time card (e.g., for IST +5:30, use 5.5)
+          # UTC_OFFSET: 5.5
