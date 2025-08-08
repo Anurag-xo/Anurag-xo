@@ -37,7 +37,8 @@
 <!-- [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
 [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+<!-- [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
