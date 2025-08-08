@@ -34,41 +34,44 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-xo&theme=redical&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" /> -->
 
 [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!-- [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <!-- [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+
 [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<!-- [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+[![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
 ---
+
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Java                     43 mins             ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-Lua                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-JavaScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+💬 Programming Languages:
+Java                     43 mins             ███████░░░░░░░░░░░░░░░░░░   26.46 %
+Lua                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+JavaScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
 
-🔥 Editors: 
-Neovim                   2 hrs 20 mins       ██████████████████████░░░   86.12 % 
-Nvim                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Unknown Editor           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+🔥 Editors:
+Neovim                   2 hrs 20 mins       ██████████████████████░░░   86.12 %
+Nvim                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Unknown Editor           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 
-🐱‍💻 Projects: 
-Unknown Project          49 mins             ████████░░░░░░░░░░░░░░░░░   30.57 % 
-npm_profile              30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-nvim                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-anuragx-dorfiles         12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-terminal_port            12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+🐱‍💻 Projects:
+Unknown Project          49 mins             ████████░░░░░░░░░░░░░░░░░   30.57 %
+npm_profile              30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 %
+nvim                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+anuragx-dorfiles         12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+terminal_port            12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
 
-💻 Operating System: 
-WSL                      2 hrs 42 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+WSL                      2 hrs 42 mins       █████████████████████████   100.00 %
 ```
-
 
 <!--END_SECTION:waka-->
 
