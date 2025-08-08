@@ -91,9 +91,13 @@ _"Good code needs good beats! 🎶"_
 Run: npx anuragxo
 ```
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmZ29leWVyYzNpZDNpOTZ1eGVqaWR4YXE0OHNtcjJrbTNjcGtpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="400" alt="Coding Life"/>
+<!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmZ29leWVyYzNpZDNpOTZ1eGVqaWR4YXE0OHNtcjJrbTNjcGtpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="400" alt="Coding Life"/>
 
-_"That's all folks! Keep coding and keep memeing!"_
+_"That's all folks! Keep coding and keep memeing!"_ -->
+
+_"How I imagine C++ pointers talk to each other: "_
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o2cWpuNWhqNG03ZXVxcHYydGZ2eHAwYnR4NDVvNnZhY2hjYm1kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4tQmuMGdah3B6/giphy.gif" width="400" alt="Sick"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=footer&animation=twinkling"/>
 </div>
