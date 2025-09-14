@@ -47,9 +47,11 @@
 
 ---
 
-<a href="https://monkeytype.com/profile/Aethelstan">
-    <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-</a>
+<div align="center">
+    <a href="https://monkeytype.com/profile/Aethelstan">
+        <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    </a>
+</div>
 <!--START_SECTION:waka-->
 
 📊 **This Week I Spent My Time On**
