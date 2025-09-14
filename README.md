@@ -38,34 +38,40 @@
 
 [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
 <!-- [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+
 [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
 ---
 
+<a href="https://monkeytype.com/profile/Aethelstan">
+        <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo.git/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+</a>
+
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Markdown                 4 mins              █████████████████████░░░░   83.12 % 
-Other                    0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+💬 Programming Languages:
+Markdown                 4 mins              █████████████████████░░░░   83.12 %
+Other                    0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 
-🔥 Editors: 
-Neovim                   5 mins              █████████████████████████   100.00 % 
+🔥 Editors:
+Neovim                   5 mins              █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-devops                   4 mins              █████████████████████░░░░   83.44 % 
-Unknown Project          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-ProductsMicroservice     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+🐱‍💻 Projects:
+devops                   4 mins              █████████████████████░░░░   83.44 %
+Unknown Project          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.81 %
+ProductsMicroservice     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 
-💻 Operating System: 
-WSL                      5 mins              █████████████████████████   100.00 % 
+💻 Operating System:
+WSL                      5 mins              █████████████████████████   100.00 %
 ```
-
 
 <!--END_SECTION:waka-->
 
