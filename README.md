@@ -14,19 +14,14 @@
   <source media="(prefers-color-scheme: light)" srcset="./github-contribution-snake.svg" />
   <img alt="GitHub Contribution Snake Animation" src="./github-contribution-snake.svg" />
 </picture>
-
 </div>
-
 ---
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux,python,nodejs,java,cpp,go,javascript,fastapi,django,githubactions,jenkins,kafka,prometheus,grafana,redis,postgres,supabase,nginx,bash,mysql,vim,gitlab,mongodb&theme=dark" alt="Technical Skills" />
 </div>
-
 ---
 
 <div align="center">
-
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Anurag-xo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Development%20Activity" alt="GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=Anurag-xo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B35&ring=FF6B35" alt="GitHub Streak" />
@@ -43,9 +38,7 @@
 
 [![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-</div>
-
----
+## </div>
 
 <div align="center">
     <a href="https://monkeytype.com/profile/Aethelstan">
@@ -53,7 +46,6 @@
     </a>
 </div>
 <!--START_SECTION:waka-->
-
 📊 **This Week I Spent My Time On**
 
 ```text
@@ -79,7 +71,6 @@ WSL                      5 mins              ███████████�
 ### 🎧 Currently Playing
 
 <div align="center">
-
 <a href="https://anuragxo.pythonanywhere.com/link">
   <img src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="Currently Playing on Spotify" />
 </a>
@@ -95,12 +86,8 @@ Run: npx anuragxo
 <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmZ29leWVyYzNpZDNpOTZ1eGVqaWR4YXE0OHNtcjJrbTNjcGtpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="400" alt="Coding Life"/>
 
 _"That's all folks! Keep coding and keep memeing!"_ -->
-
 <h3 align="center">How I imagine C++ pointers talk to each other:</h3>
-
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o2cWpuNWhqNG03ZXVxcHYydGZ2eHAwYnR4NDVvNnZhY2hjYm1kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4tQmuMGdah3B6/giphy.gif" width="400" alt="Sick"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=footer&animation=twinkling"/>
 </div>
-
 ---
