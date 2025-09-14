@@ -48,7 +48,7 @@
 ---
 
 <a href="https://monkeytype.com/profile/Aethelstan">
-    <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo.git/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    <img src="https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/tree/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
 </a>
 <!--START_SECTION:waka-->
 
