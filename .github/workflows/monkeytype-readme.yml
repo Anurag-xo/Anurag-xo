@@ -29,6 +29,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: monkeytype-readme
-          build_dir: public
+          build_dir: /
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
