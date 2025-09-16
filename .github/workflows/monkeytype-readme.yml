@@ -12,14 +12,14 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: "16.x"
+      # - name: Set up Node.js
+      #   uses: actions/setup-node@v3
+      #   with:
+      #     node-version: "16.x"
 
       - name: Download SVG
         run: |
-          mkdir public
+          mkdir -p public
           curl -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/Aethelstan/cyberspace
           curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/Aethelstan/cyberspace?lb=true
           curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/Aethelstan/cyberspace?pb=true
@@ -29,6 +29,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: monkeytype-readme
-          build_dir: /
+          build_dir: public
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
