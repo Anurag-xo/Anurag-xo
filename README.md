@@ -15,10 +15,13 @@
   <img alt="GitHub Contribution Snake Animation" src="./github-contribution-snake.svg" />
 </picture>
 </div>
+
 ---
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux,python,nodejs,java,cpp,go,javascript,fastapi,django,githubactions,jenkins,kafka,prometheus,grafana,redis,postgres,supabase,nginx,bash,mysql,vim,gitlab,mongodb&theme=dark" alt="Technical Skills" />
 </div>
+
 ---
 
 <div align="center">
@@ -95,4 +98,5 @@ _"That's all folks! Keep coding and keep memeing!"_ -->
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o2cWpuNWhqNG03ZXVxcHYydGZ2eHAwYnR4NDVvNnZhY2hjYm1kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4tQmuMGdah3B6/giphy.gif" width="400" alt="Sick"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=footer&animation=twinkling"/>
 </div>
+
 ---
