@@ -86,11 +86,13 @@ WSL                      57 mins             ███████████�
 
 _"Good code needs good beats! 🎶"_
 
-### ✨ Vibe-check your terminal!
+<h3 align="center">📡 Ping me in your terminal 👇</h3>
 
-```bash
-Run: npx anuragxo
-```
+<p align="center">
+  <a href="https://www.npmjs.com/package/anuragxo" target="_blank">
+    <img src="https://img.shields.io/badge/run%20this%20command-npx%20anuragxo-blueviolet?style=for-the-badge&logo=npm" alt="npx anuragxo">
+  </a>
+</p>
 
 <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmZ29leWVyYzNpZDNpOTZ1eGVqaWR4YXE0OHNtcjJrbTNjcGtpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="400" alt="Coding Life"/>
 
