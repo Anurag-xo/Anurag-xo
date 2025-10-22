@@ -50,30 +50,30 @@
 </div>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-TeX                      3 hrs 50 mins       ████████████████████░░░░░   80.47 % 
-Java                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+💬 Programming Languages:
+TeX                      3 hrs 50 mins       ████████████████████░░░░░   80.47 %
+Java                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 
-🔥 Editors: 
-Neovim                   4 hrs 46 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+Neovim                   4 hrs 46 mins       █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-resume                   3 hrs 50 mins       ████████████████████░░░░░   80.49 % 
-java_DSA                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-airflow-dbt-project      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-callback-url             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+🐱‍💻 Projects:
+resume                   3 hrs 50 mins       ████████████████████░░░░░   80.49 %
+java_DSA                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+airflow-dbt-project      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+callback-url             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 
-💻 Operating System: 
-WSL                      4 hrs 46 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+WSL                      4 hrs 46 mins       █████████████████████████   100.00 %
 ```
-
 
 <!--END_SECTION:waka-->
 
@@ -97,8 +97,8 @@ _"Good code needs good beats! 🎶"_
 <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmZ29leWVyYzNpZDNpOTZ1eGVqaWR4YXE0OHNtcjJrbTNjcGtpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="400" alt="Coding Life"/>
 
 _"That's all folks! Keep coding and keep memeing!"_ -->
-<h3 align="center">How I imagine C++ pointers talk to each other:</h3>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o2cWpuNWhqNG03ZXVxcHYydGZ2eHAwYnR4NDVvNnZhY2hjYm1kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4tQmuMGdah3B6/giphy.gif" width="400" alt="Sick"/>
+<!-- <h3 align="center">How I imagine C++ pointers talk to each other:</h3> -->
+<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o2cWpuNWhqNG03ZXVxcHYydGZ2eHAwYnR4NDVvNnZhY2hjYm1kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4tQmuMGdah3B6/giphy.gif" width="400" alt="Sick"/> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=footer&animation=twinkling"/>
 </div>
 
