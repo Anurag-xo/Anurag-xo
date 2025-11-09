@@ -94,6 +94,10 @@ _"Good code needs good beats! 🎶"_
   </a>
 </p>
 
+<div align="center">
+<img height="100%" src="https://raw.githubusercontent.com/Sasuke1003/photoshub/refs/heads/main/Pixel%20Art%208Bit%20GIF%20by%20pixel%20jeff.gif" />
+</div>
+
 <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NmZ29leWVyYzNpZDNpOTZ1eGVqaWR4YXE0OHNtcjJrbTNjcGtpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="400" alt="Coding Life"/>
 
 _"That's all folks! Keep coding and keep memeing!"_ -->
