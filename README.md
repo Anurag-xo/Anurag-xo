@@ -1,8 +1,8 @@
 <div align="right">
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" 
-       alt="Cat Gif" 
-       width="130" 
-       style="position:absolute; top:20px; right:20px; z-index:100;" />
+       alt="Cat Git" 
+       width="120" 
+       style="position:fixed; top:20px; right:25px; z-index:1000; pointer-events:none;" />
 </div>
 <!-- cat gif end -->
 <div align="center">
