@@ -77,20 +77,36 @@ WSL                      8 hrs 59 mins       ███████████�
 
 <!--END_SECTION:waka-->
 
-<p align="right" style="margin-top:-20px;">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"
-       alt="Cat Git"
-       width="110"
-       style="display:inline-block;margin:0;padding:0;" />
-</p>
+<div align="center">
+
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://anuragxo.pythonanywhere.com/link">
+        <img src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" 
+             alt="Currently Playing on Spotify" />
+      </a>
+    </td>
+    <td align="center" style="border:none; padding-left:15px;">
+      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" 
+           alt="Cat Git" 
+           width="120" 
+           style="display:block; margin:0;" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
+<!--
 ### 🎧 Currently Playing
 
 <div align="center">
 <a href="https://anuragxo.pythonanywhere.com/link">
   <img src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="Currently Playing on Spotify" />
 </a>
+-->
 
 _"Good code needs good beats! 🎶"_
 
