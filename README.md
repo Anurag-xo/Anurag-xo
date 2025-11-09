@@ -77,25 +77,17 @@ WSL                      8 hrs 59 mins       ███████████�
 
 <!--END_SECTION:waka-->
 
-<div align="center">
+### 🎧 Currently Playing
 
-<table align="center" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" style="border:none;">
-      <a href="https://anuragxo.pythonanywhere.com/link">
-        <img src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" 
-             alt="Currently Playing on Spotify" />
-      </a>
-    </td>
-    <td align="center" style="border:none; padding-left:15px;">
-      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" 
-           alt="Cat Git" 
-           width="120" 
-           style="display:block; margin:0;" />
-    </td>
-  </tr>
-</table>
-
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:15px;">
+  <a href="https://anuragxo.pythonanywhere.com/link">
+    <img src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" 
+         alt="Currently Playing on Spotify" />
+  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" 
+       alt="Cat GIF" 
+       width="120" 
+       style="margin:0;" />
 </div>
 
 
