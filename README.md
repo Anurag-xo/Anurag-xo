@@ -54,16 +54,16 @@
 
 ```text
 💬 Programming Languages: 
-TeX                      26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-resume                   26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
