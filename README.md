@@ -54,16 +54,17 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      0 secs              ████████████████░░░░░░░░░   63.64 % 
+Markdown                 0 secs              █████████░░░░░░░░░░░░░░░░   36.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+java_DSA                 0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
