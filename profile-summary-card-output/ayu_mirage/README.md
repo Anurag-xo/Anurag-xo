@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Anurag-xo/Anurag-xo/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg)
+```
+
+    
