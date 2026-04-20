@@ -54,20 +54,16 @@
 
 ```text
 💬 Programming Languages: 
-Awk                      11 mins             ███████████████████████░░   90.84 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-awk-commands             12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
