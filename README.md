@@ -54,20 +54,16 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     25 mins             █████████████░░░░░░░░░░░░   50.26 % 
-JavaScript               14 mins             ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-CSS                      10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BMS                      28 mins             ██████████████░░░░░░░░░░░   56.05 % 
-Unknown Project          22 mins             ███████████░░░░░░░░░░░░░░   43.95 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
