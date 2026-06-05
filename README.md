@@ -50,6 +50,29 @@
 <!-- </div> -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TeX                      19 mins             ███████████████░░░░░░░░░░   60.81 % 
+TypeScript               5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Java                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+
+🔥 Editors: 
+Neovim                   32 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+resume                   20 mins             ████████████████░░░░░░░░░   62.19 % 
+terminal_port            6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+EmailNotificationMicroser3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Blog-web                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+
+💻 Operating System: 
+WSL                      32 mins             █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
