@@ -54,16 +54,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 41 mins             █████████████████████████   99.88 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          40 mins             ████████████████████████░   97.60 % 
+devops                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      41 mins             █████████████████████████   100.00 % 
 ```
 
 
