@@ -54,18 +54,16 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 47 mins             █████████████████████████   99.90 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   47 mins             █████████████████████████   100.00 % 
+Neovim                   6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          46 mins             ████████████████████████░   97.91 % 
-devops                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Unknown Project          6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      47 mins             █████████████████████████   100.00 % 
+WSL                      6 mins              █████████████████████████   100.00 % 
 ```
 
 
