@@ -54,16 +54,16 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
