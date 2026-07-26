@@ -50,6 +50,25 @@
 <!-- </div> -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 40 mins             █████████████████████░░░░   85.56 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+
+🔥 Editors: 
+Neovim                   46 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          40 mins             █████████████████████░░░░   85.56 % 
+in.anurag                6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+
+💻 Operating System: 
+WSL                      46 mins             █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
