@@ -50,31 +50,6 @@
 <!-- </div> -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     1 hr                █████████████████████████   98.82 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-
-🔥 Editors: 
-Neovim                   1 hr                █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-in.anurag                1 hr                █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      1 hr                █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
