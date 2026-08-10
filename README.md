@@ -56,17 +56,16 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr                █████████████████████████   98.82 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-in.anurag                1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
