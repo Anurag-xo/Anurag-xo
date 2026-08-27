@@ -9,6 +9,7 @@
   <img src="https://github.com/Anurag-xo/Anurag-xo/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </a>
 <!-- Snake Graph -->
+  <!-- TODO add a shooter game as well -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./github-contribution-snake.svg" />
