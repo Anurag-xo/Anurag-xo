@@ -57,16 +57,17 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     3 mins              ████████████████████████░   97.13 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+in.anurag                3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
