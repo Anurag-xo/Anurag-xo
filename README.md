@@ -57,18 +57,16 @@
 
 ```text
 💬 Programming Languages: 
-Java                     36 mins             ███████████████████░░░░░░   76.07 % 
-YAML                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-directory                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Java                     7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   47 mins             █████████████████████████   100.00 % 
+Neovim                   7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-in.anurag                47 mins             █████████████████████████   100.00 % 
+in.anurag                7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      47 mins             █████████████████████████   100.00 % 
+WSL                      7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
