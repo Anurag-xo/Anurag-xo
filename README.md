@@ -57,21 +57,21 @@
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 46 mins       ██████████████████████░░░   88.94 % 
-directory                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Java                     2 hrs 56 mins       ███████████████████████░░   92.25 % 
+directory                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 7 mins        █████████████████████████   100.00 % 
+Neovim                   3 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-in.anurag                3 hrs 7 mins        █████████████████████████   99.96 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+in.anurag                3 hrs 11 mins       █████████████████████████   99.97 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-WSL                      3 hrs 7 mins        █████████████████████████   100.00 % 
+WSL                      3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
